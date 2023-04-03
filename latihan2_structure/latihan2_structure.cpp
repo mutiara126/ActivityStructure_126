@@ -31,3 +31,9 @@ int main() {
 	cout << "Masukan Umur : ";
 	cin << mhs.umur;
 
+	cout << "\n\nNIM = " << mhs.NIM;
+	cout << "\nNama = " << mhs.nama;
+	cout << "\nDesa = " << mhs.desa;
+	cout << "\nKota = " << mhs.kota;
+	cout << "\nUmur = " << mhs.umur;
+}
