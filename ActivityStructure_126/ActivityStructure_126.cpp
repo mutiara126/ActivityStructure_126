@@ -7,6 +7,12 @@ struck mahasiswa
 	string nama;
 	string almaat;
 	int umur;
+};struck mahasiswa
+{
+	string NIM;
+	string nama;
+	string almaat;
+	int umur;
 };
 
 
