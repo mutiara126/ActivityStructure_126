@@ -37,5 +37,4 @@ int main() {
 	cout << "\nAlamat = " << mhs2.alamat;
 	cout << "\nUmur = " << mhs2.umur;
 
-
 }
